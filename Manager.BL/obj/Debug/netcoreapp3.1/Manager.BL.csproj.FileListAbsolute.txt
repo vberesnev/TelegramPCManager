@@ -1,0 +1,13 @@
+D:\Валера\C#\TelegramPCManager\Manager.BL\bin\Debug\netcoreapp3.1\Manager.BL.deps.json
+D:\Валера\C#\TelegramPCManager\Manager.BL\bin\Debug\netcoreapp3.1\Manager.BL.dll
+D:\Валера\C#\TelegramPCManager\Manager.BL\bin\Debug\netcoreapp3.1\Manager.BL.pdb
+D:\Валера\C#\TelegramPCManager\Manager.BL\bin\Debug\netcoreapp3.1\Manager.Common.dll
+D:\Валера\C#\TelegramPCManager\Manager.BL\bin\Debug\netcoreapp3.1\Manager.Common.pdb
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.csprojAssemblyReference.cache
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.AssemblyInfoInputs.cache
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.AssemblyInfo.cs
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.csproj.CopyComplete
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.dll
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.pdb
+D:\Валера\C#\TelegramPCManager\Manager.BL\obj\Debug\netcoreapp3.1\Manager.BL.csproj.CoreCompileInputs.cache
+D:\Валера\C#\TelegramPCManager\Manager.BL\bin\Debug\netcoreapp3.1\NirCMD\nircmd.exe

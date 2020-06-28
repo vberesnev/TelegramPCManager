@@ -1,0 +1,10 @@
+D:\Валера\C#\TelegramPCManager\Manager.Common\bin\Debug\netcoreapp3.1\Manager.Common.deps.json
+D:\Валера\C#\TelegramPCManager\Manager.Common\bin\Debug\netcoreapp3.1\Manager.Common.dll
+D:\Валера\C#\TelegramPCManager\Manager.Common\bin\Debug\netcoreapp3.1\Manager.Common.pdb
+D:\Валера\C#\TelegramPCManager\Manager.Common\obj\Debug\netcoreapp3.1\Manager.Common.csprojAssemblyReference.cache
+D:\Валера\C#\TelegramPCManager\Manager.Common\obj\Debug\netcoreapp3.1\Manager.Common.AssemblyInfoInputs.cache
+D:\Валера\C#\TelegramPCManager\Manager.Common\obj\Debug\netcoreapp3.1\Manager.Common.AssemblyInfo.cs
+D:\Валера\C#\TelegramPCManager\Manager.Common\obj\Debug\netcoreapp3.1\Manager.Common.csproj.CoreCompileInputs.cache
+D:\Валера\C#\TelegramPCManager\Manager.Common\obj\Debug\netcoreapp3.1\Manager.Common.dll
+D:\Валера\C#\TelegramPCManager\Manager.Common\obj\Debug\netcoreapp3.1\Manager.Common.pdb
+D:\Валера\C#\TelegramPCManager\Manager.Common\bin\Debug\netcoreapp3.1\NirCMD\nircmd.exe
