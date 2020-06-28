@@ -1,0 +1,5 @@
+D:\Валера\C#\TelegramPCManager\ManagerBL\bin\Debug\netcoreapp3.1\ManagerBL.deps.json
+D:\Валера\C#\TelegramPCManager\ManagerBL\bin\Debug\netcoreapp3.1\ManagerBL.dll
+D:\Валера\C#\TelegramPCManager\ManagerBL\obj\Debug\netcoreapp3.1\ManagerBL.csprojAssemblyReference.cache
+D:\Валера\C#\TelegramPCManager\ManagerBL\obj\Debug\netcoreapp3.1\ManagerBL.AssemblyInfoInputs.cache
+D:\Валера\C#\TelegramPCManager\ManagerBL\obj\Debug\netcoreapp3.1\ManagerBL.AssemblyInfo.cs
